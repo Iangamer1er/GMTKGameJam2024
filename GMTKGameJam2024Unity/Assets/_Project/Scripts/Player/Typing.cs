@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class Typing : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    [SerializeField] FormatedText text;
+
+    private void Start() {
+        // Debug.Log(text.words[0]);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    [ContextMenu("Format")]
+    public void FormatList(){
+        text.words = new List<string>(text.wordList.text.Split('\n'));
     }
 }
