@@ -1,6 +1,8 @@
 THEME : Built to scale
 
 IDEAS : 
-- Making knives to scale fish in shortest time possible (upgrades to scale faster)
-- Typing game where you scale stairs/building as a timer goes down if you don't type
-- Evolution game where you grow better and better wings (scale : each of numerous microscopic structures covering the wings of butterflies and moths)
+1- Making knives to scale fish in shortest time possible (upgrades to scale faster)-> would be cool but not enough time as solo
+2- Typing game where you scale stairs/building as a timer goes down if you don't type -> idea is ok but not that original (maybe make it a party game with online scoreboard?)
+3- Evolution game where you grow better and better wings (scale : each of numerous microscopic structures covering the wings of butterflies and moths)-> modeling is not my forte and it would be too important
+
+CHOICE : 2- Typing game
