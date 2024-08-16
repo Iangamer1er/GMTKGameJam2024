@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text: {fileID: 11400000, guid: 4d146e902b9b50941a3f9a4903c3c7de, type: 2}
+  testString: 
 --- !u!4 &114703509
 Transform:
   m_ObjectHideFlags: 0
